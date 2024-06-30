@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Hacking and pentesting
 - 🌱 I’m currently learning ... Python and C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Insta - @__.r.yxn.___
+- 📫 How to reach me ... Insta - @favautistickid
 
 <!---
 KiraxD/KiraxD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
