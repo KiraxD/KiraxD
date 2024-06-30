@@ -1,4 +1,4 @@
-- 👋 Hi, I’m KiraxD
+- 👋 Hi, I’m Reshob Roychoudhury (KiraxD)
 - 👀 I’m interested in ... Hacking and pentesting
 - 🌱 I’m currently learning ... Python and C++
 - 💞️ I’m looking to collaborate on ...
