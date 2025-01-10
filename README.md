@@ -27,8 +27,7 @@ Hey! I'm Reshob, a tech enthusiast with a deep passion for **cybersecurity** and
 
 ### What I Do for Fun:
 
-- **Autism Advocacy**: When I'm not exploring the digital world, I am actively advocating for autism awareness and neurodiversity. It's important to me to help spread understanding and acceptance.
-  
+ 
 - **Building Tools**: I love creating custom tools for automating penetration tests, analyzing WiFi networks, and detecting vulnerabilities. Some of my tools focus on wireless exploitation, MITM attacks, and packet interception.
   
 - **Staying Current**: I spend time reading the latest in cybersecurity news and trends, always staying on top of the newest vulnerabilities and tools in the infosec space.
