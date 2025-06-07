@@ -1,41 +1,17 @@
+<h1 align="center">Hi 👋, I'm Reshob Roychoudhury</h1>
+<h3 align="center">A passionate Cybersecurity Enthusiast from India</h3>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiraxd" alt="kiraxd" /></a> </p>
 
-# Who Am I?
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/reshob-roychoudhury-70128a2bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reshob-roychoudhury-70128a2bb" height="30" width="40" /></a>
+<a href="https://instagram.com/favautistickid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="favautistickid" height="30" width="40" /></a>
+</p>
 
-**GitHub**: [KiraxD](https://github.com/KiraxD)  
-**Name**: Reshob Roychoudhury  
-**Instagram**: [@favautistickid](https://www.instagram.com/favautistickid)  
-**Email**: reshob.rc12345@gmail.com    
-**Linkedin**: [Check Me Out](https://www.linkedin.com/in/reshob-roychoudhury-70128a2bb/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## About Me
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiraxd&show_icons=true&locale=en&layout=compact" alt="kiraxd" /></p>
 
-Hey! I'm Reshob, a tech enthusiast with a deep passion for **cybersecurity** and **ethical hacking**. My expertise lies in exploring network vulnerabilities and developing tools that can help identify and fix security flaws. I spend most of my time studying security protocols, writing Python scripts, and testing wireless networks for penetration points.
-
-### My Interests:
-
-- **Cybersecurity**: My primary focus is on ethical hacking and penetration testing. I enjoy understanding how systems are built so I can find weaknesses and propose solutions.
-  
-- **Wireless Penetration Testing**: I'm fascinated by wireless networks—especially how vulnerable they can be. From WiFi security protocols to advanced network manipulation, I enjoy breaking down the security of wireless networks in a controlled, ethical way.
-  
-- **WiFi Hacking**: Testing WiFi security is something I actively work on. From discovering vulnerabilities in WPA/WPA2 to performing **Man-in-the-Middle (MITM) attacks**, WiFi networks offer a unique challenge that I love to tackle.
-
-- **Python Programming**: Python is my language of choice for building cybersecurity tools. It’s fast, flexible, and perfect for automating hacking techniques like network scanning, ARP spoofing, and packet sniffing.
-
-- **Networking**: Beyond wireless penetration, I enjoy deep-diving into network protocols. I love understanding how data flows across networks and where the potential flaws might be in various security setups.
-
-### What I Do for Fun:
-
- 
-- **Building Tools**: I love creating custom tools for automating penetration tests, analyzing WiFi networks, and detecting vulnerabilities. Some of my tools focus on wireless exploitation, MITM attacks, and packet interception.
-  
-- **Staying Current**: I spend time reading the latest in cybersecurity news and trends, always staying on top of the newest vulnerabilities and tools in the infosec space.
-
-### How You Can Reach Me:
-
-- **Email**: Feel free to contact me at reshob.rc12345@gmail.com for any inquiries, collaborations, or general discussions about cybersecurity and tech.
-
-- **Instagram**: You can also follow me on [@favautistickid](https://www.instagram.com/favautistickid) to see more about my day-to-day life and interests.
-
-Whether you’re interested in collaboration, learning more about cybersecurity, or simply want to chat, don’t hesitate to get in touch!
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiraxd&show_icons=true&locale=en" alt="kiraxd" /></p>
