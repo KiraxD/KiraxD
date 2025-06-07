@@ -19,12 +19,30 @@
 
 ## ⚙️ Tech Stack
 
-```bash
-Languages:       [ C, C++, Python, Bash, JS ]
-Web Dev:         [ HTML, Tailwind, PHP, MySQL, React ]
-Cybersecurity:   [ Kali Linux, Burp Suite, Wireshark, DVWA ]
-Dev Tools:       [ Git, GitHub, Docker, CustomTkinter, WindSurf ]
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bash-121011?logo=gnubash&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?logo=kalilinux&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6F00?logo=burpsuite&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DVWA-222222?logo=linux&logoColor=green&style=for-the-badge"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CustomTkinter-FF69B4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/WindSurf-000000?style=for-the-badge"/>
+</p>
 
 ---
 
