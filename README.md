@@ -46,16 +46,6 @@
 
 ---
 
-## 🧪 Featured Projects
-
-| Project | Tech Used | Description |
-|--------|-----------|-------------|
-| 🔐 [Password Analyzer GUI](https://github.com/KiraxD/Password-Analyzer) | Python + CustomTkinter | A GUI app to analyze password strength |
-| 🤖 [AI Form Filler Extension](#) | JS + AI API | Auto-fill Google Forms with AI |
-| 🛕️ [ExpressDesi](#) | WindSurf + Tailwind | Fashion delivery app with 1–2hr shipping |
-| 🛡️ Persona | Python + CV + ML | Fraud detection + face verification system |
-
----
 
 ## 📈 GitHub Stats
 
@@ -64,9 +54,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiraxD&layout=compact&theme=tokyonight" alt="Top Langs" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KiraxD&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
-</p>
 
 ---
 
